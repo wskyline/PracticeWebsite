@@ -1,0 +1,74 @@
+
+
+body {
+    margin: 0px;
+}
+
+header {
+    background-color: #71c0ba;
+    height: 110px;
+}
+
+.header-container {
+    margin-right: 17.5%;
+    margin-left: 17.5%;
+    top: 1rem;
+}
+
+.logo {
+    position: relative;
+    top: 1rem;
+    width: 180px;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+.menu-item {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    width: 51px;
+    height: 50px;
+    display: inline-block;
+}
+
+#main {
+    margin-top: 9%;
+    margin-right: 17.5%;
+    margin-left: 17.5%;
+}
+
+
+.title {
+    font-size: 1.75rem;
+    color:#447371;
+    font-family: "Helvetica-Neue","Helvetica",Arial,sans-serif;
+}
+
+.portrait-container {
+    margin:30px; 
+    width: 150px;  
+    height: 138px;
+    display: inline-block;
+}
+
+.name {
+    font-size: 1.2rem;
+    color:#71c0ba;
+    font-family: "Helvetica-Neue","Helvetica",Arial,sans-serif;
+}
+
+.description {
+    font-size: 0.8rem;
+    color:#71c0ba;
+    font-family: "Helvetica-Neue","Helvetica",Arial,sans-serif;
+}
+
+footer {
+    text-align:right;
+    font-size: 0.8rem;
+    color: #447371;
+    padding: 30px 50px;
+    font-family: "Helvetica-Neue","Helvetica",Arial,sans-serif;
+}
